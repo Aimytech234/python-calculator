@@ -65,3 +65,17 @@ while True:
         print('Please enter correct input among these 1/2/3/4/n')
 
 ```
+## My Interpretation
+
+
+**What the program does (2–3 lines):**
+- …This program   performs a specific operation like 1, 2, 3, 4 and n. Using functions add(), subtract(), multiply() to perform specific task after given data to the system.Takes two numbers as inputs and used branching if elif else to perform a particular section. to exit the program we need to enter n.
+
+**Functions (inputs → outputs):**
+- add(x, y) → … it takes two numbers and adds them its an addition.
+- subtract(x, y) → … it takes two numbers and subtracts them 
+- multiply(x, y) → … it takes two numbers x and y and multiplies them.
+- divide(x, y) → … it takes two numbers and divides them.
+
+**Control flow (2–4 lines):**
+- … while loop takes in input of two numbers in this code. if the input is any number between 1-4 loop starts and gives output according to the input provided. either the two numbers are added, subtracted, multiplied or divided. starts if and else condition. and if choice is n then user will be successfully logged out.
